@@ -90,7 +90,7 @@ const Footer: React.FC = () => {
       <div className="mt-8 text-center text-gray-500 text-sm">
         <p>&copy; 2048 Hicham Boudouch. All rights reserved.</p>
         <p>
-          Design by <a href="#" className="text-blue-500 hover:underline">Hicham-In-Tech</a>
+          Design by <a href="#" className="text-blue-500 hover:underline">Hicham & Hamza - H&H</a>
         </p>
       </div>
     </footer>

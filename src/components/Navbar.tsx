@@ -28,7 +28,7 @@ function Navbar() {
 
   return (
     <nav
-      className={`flex justify-between z-50 items-center p-5 transition-all duration-300 ${
+      className={`flex justify-between z-50 items-center px-5 py-2 transition-all duration-300 ${
         isSticky ? 'fixed top-0 left-0 w-full bg-black text-white shadow-md' : 'bg-transparent'
       }`}
     >
@@ -94,8 +94,8 @@ function Navbar() {
         <Image
           src={uiz}
           alt={'logo'}
-          width={80}
-          height={80}
+          width={70}
+          height={70}
           className="object-cover md:w-100 md:h-100"
         />
       </div>
