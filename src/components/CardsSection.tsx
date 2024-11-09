@@ -12,7 +12,7 @@ function CardSection() {
       <Card
         imageUrl={fpt}
         name="FPT"
-        description="La Faculté Polydisciplinaire de Taroudant, au Maroc, propose divers programmes dans plusieurs domaines d’études."
+        description="La Faculté Polydisciplinaire de Taroudannt (FPT), ouverte en 2010, constitue l’un des jalons universitaires du grand Sud marocain à travers lesquels l’Université Ibn Zohr aspire atteindre deux objectifs principaux : le rapprochement de la formation universitaire aux jeunes des ces régions, l’intégration de l’université dans son contexte à travers des formations professionnelles ancrées dans le milieu socioéconomique. Une soixantaine d’enseignants chercheurs et 16 cadres administratifs et techniques contribuent au développement de cette jeune Faculté en étroite collaboration avec les différentes composantes de l’Université. La FPT propose plusieurs formations en cycle licence et master, couvrant les champs disciplinaires de Sciences et Technique, d'Économie et Gestion et de Lettres Sciences Humaines et Sociales. Durant les deux premières années de son existence, la Faculté a connu une vie associative et culturelle très dynamique marquée par l’organisation de nombreuses manifestations scientifiques et culturelles dont bon nombre d’entre elles sont à l’initiative des étudiants encadrés par l’équipe professorale et administrative dévouée à la cause de la FPT."
       />
     </section>
   );
